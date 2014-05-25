@@ -1,6 +1,5 @@
-## 
-
-## Write a short comment describing this function
+## This function allows caching of function values and defines methods to set 
+## or get stored values
 
 makeCacheMatrix <- function(x = matrix()) {
         i <- NULL
